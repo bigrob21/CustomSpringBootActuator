@@ -1,0 +1,9 @@
+git.properties
+classes
+target
+.idea
+*.iml
+*.class
+.classpath
+.settings
+.project
