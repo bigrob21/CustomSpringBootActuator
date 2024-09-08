@@ -12,6 +12,7 @@
     <modules>
         <module>webapp</module>
         <module>custom-actuator</module>
+        <module>arbitrary-model-dependency</module>
     </modules>
 
     <properties>
